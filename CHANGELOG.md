@@ -1,0 +1,3 @@
+-Add function game to script.js
+-Add index.html, css, and js files.
+-Initial commit
