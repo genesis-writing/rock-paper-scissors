@@ -10,7 +10,7 @@ function computerPlay() {
 }
 
 /*
-This function plays a single round of rock paper scissors.
+This function plays a single round of rock paper scissors. TEST
 */
 function playRound(playerSelection, computerSelection) {
     let playerOption = playerSelection.toLowerCase();
